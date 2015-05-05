@@ -1,0 +1,15 @@
+servlet\UserInfo.class
+fr\istic\sir\rest\SampleWebService.class
+servlet\InserData.class
+fr\istic\tpjpa\domain\Peripherique.class
+fr\istic\tpjpa\domain\Chauffage.class
+fr\istic\tpjpa\domain\Department.class
+servlet\MyServlet.class
+fr\istic\tpjpa\jpa\N1Select.class
+fr\istic\tpjpa\jpa\Joinfetch.class
+fr\istic\tpjpa\domain\Home.class
+servlet\OPower.class
+fr\istic\tpjpa\domain\ElectricDevice.class
+fr\istic\tpjpa\domain\Personne.class
+fr\istic\tpjpa\domain\Employee.class
+fr\istic\tpjpa\jpa\JpaTest.class
